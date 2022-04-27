@@ -4,6 +4,8 @@ import './index.css'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
 
+import './01-ts基礎/06-class+interface'
+
 ReactDOM.render(
   // <React.StrictMode>
   <App />,
