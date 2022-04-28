@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
-import App from './App'
+import App from './02-class+ts/04-抽屜'
 import reportWebVitals from './reportWebVitals'
 
-import './01-ts基礎/06-class+interface'
+// import './01-ts基礎/06-class+interface'
 
 ReactDOM.render(
   // <React.StrictMode>
