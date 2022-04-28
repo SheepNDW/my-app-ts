@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
-import App from './02-class+ts/04-抽屜'
+import App from './03-function+ts/04-抽屜'
 import reportWebVitals from './reportWebVitals'
 
 // import './01-ts基礎/06-class+interface'
